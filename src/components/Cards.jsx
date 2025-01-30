@@ -5,7 +5,7 @@ const Cards = (props) => {
     return (
         <div className="container-fluid">
             <div className='row'>
-                <div className='ccol-md-3 col-sm-6  p-1'>
+                <div className='col-md-3 col-sm-6  p-1'>
                     <Card
                         image="assets/img/BTS.jpg"
                         titulo="BangTan sonyeondan"
